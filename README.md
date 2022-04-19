@@ -8,7 +8,7 @@ berikut tampilan dari aplikasi yang dibuat.
 
 | screenshot    |
 |------------|
-| <img src="https://github.com/putuary/Tugas4_PAM/tree/main/Screenshot/Screenshot_2022-04-19-17-42-43-841_com.ary.CuacaApp.jpg" width="250">
+| <img src="https://github.com/putuary/Tugas4_PAM/blob/main/Screenshoot/Screenshot_2022-04-19-17-42-43-841_com.ary.CuacaApp.jpg" width="250">
 
 ## Daftar Package Yang digunakan
 
