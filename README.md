@@ -3,7 +3,7 @@
 ## Aplikasi CuacaApp
 
 ## Deskripsi Aplikasi
-Aplikasi ini dapat mengetahui cuaca dari lokasi pengguna, data ini didapatkan dari sebuah API pada website `<a href="https://openweathermap.org/">openweathermap</a>`
+Aplikasi ini dapat mengetahui cuaca dari lokasi pengguna, data ini didapatkan dari sebuah API pada website | <a href="https://openweathermap.org/">openweathermap</a>
 berikut tampilan dari aplikasi yang dibuat.
 
 | screenshot    |
@@ -13,6 +13,6 @@ berikut tampilan dari aplikasi yang dibuat.
 ## Daftar Package Yang digunakan
 
 ## Cara Menginstal
-untuk menginstall aplikasi ini pengguna hanya perlu mendowload file apk pada `<a href="https://github.com/putuary/main/File%20%APK">openweathermap</a>`
+untuk menginstall aplikasi ini pengguna hanya perlu mendowload file apk pada | <a href="https://github.com/putuary/main/File%20%APK">openweathermap</a>
 
 Untuk menginstall aplikasi ini pengguna harus mengintal API `expo-location` dengan perintah `expo install expo-location`
