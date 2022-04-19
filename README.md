@@ -8,11 +8,11 @@ berikut tampilan dari aplikasi yang dibuat.
 
 | screenshot    |
 |------------|
-| <img src="https://github.com/putuary/Tugas4_PAM/tree/main/Screenshot/Screenshot_2022-04-19-17-42-43-841_com.ary.CuacaApp.png" width="250">
+| <img src="https://github.com/putuary/Tugas4_PAM/tree/main/Screenshot/Screenshot_2022-04-19-17-42-43-841_com.ary.CuacaApp.jpg" width="250">
 
 ## Daftar Package Yang digunakan
 
 ## Cara Menginstal
-untuk menginstall aplikasi ini pengguna hanya perlu mendowload file apk pada | <a href="https://github.com/putuary/Tugas4_PAM/tree/main/File%20APK">openweathermap</a>
+untuk menginstall aplikasi ini pengguna hanya perlu mendowload file apk pada <a href="https://github.com/putuary/Tugas4_PAM/tree/main/File%20APK">link ini</a>
 
 Untuk menginstall aplikasi ini pengguna harus mengintal API `expo-location` dengan perintah `expo install expo-location`
