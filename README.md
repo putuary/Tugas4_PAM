@@ -7,7 +7,7 @@
 <br>
 
 ## Deskripsi Aplikasi
-Aplikasi ini dapat mengetahui cuaca dari lokasi pengguna, data ini didapatkan dari sebuah API pada website <a href="https://openweathermap.org/">openweathermap</a>
+Aplikasi ini dapat mengetahui cuaca dari lokasi pengguna, data ini didapatkan dari sebuah API <br> pada website <a href="https://openweathermap.org/">openweathermap</a>
 berikut tampilan dari aplikasi yang dibuat.
 
 | screenshot    |
@@ -18,16 +18,16 @@ berikut tampilan dari aplikasi yang dibuat.
 
 ## Daftar Package Yang digunakan
 #### API Expo yang digunakan sebagai berikut
-##### Expo Location
+##### - Expo Location
 Untuk mengintal API `expo-location` dapat dengan perintah `expo install expo-location` <br>
 API ini digunakan untuk mengambil lokasi pengguna
-##### Expo StatusBar
-##### Beberapa Library bawaan React
+##### - Expo StatusBar
+##### - Beberapa Library bawaan React
 
 <br>
 
 ## Cara Menginstal
-untuk menginstall aplikasi ini pengguna hanya perlu mendowload file apk pada <a href="https://github.com/putuary/Tugas4_PAM/raw/main/File%20APK/RD-Putu%20Ary%20Kusuma%20Yudha-119140098-Tugas%20Individu%204.apk">link ini</a>
+Untuk menginstall aplikasi ini pengguna hanya perlu mendowload file apk pada <a href="https://github.com/putuary/Tugas4_PAM/raw/main/File%20APK/RD-Putu%20Ary%20Kusuma%20Yudha-119140098-Tugas%20Individu%204.apk">link ini</a>
 
 <br>
 
